@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ca.on.tdsb.studentname; // please change to firstnamelastname, all lowercase, one word
+package ca.on.tdsb.sanjaymylanathan; // please change to firstnamelastname, all lowercase, one word
 
 /**
  *
