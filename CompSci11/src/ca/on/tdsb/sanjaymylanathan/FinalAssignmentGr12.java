@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ca.on.tdsb.sanjaymylanathan; // please change to firstnamelastname, all lowercase, one word
+package ca.on.tdsb.sanjaymylanathan; // please change to firstnamelastname, all lowercase, one word //done
 
 /**
  *
  * @author Owner
  */
-public class AAssignment { // classname/filename changed to correct assignment 
+public class FinalAssignmentGr12 { // classname/filename changed to correct assignment //done
 
     /**
      * @param args the command line arguments
@@ -18,7 +18,7 @@ public class AAssignment { // classname/filename changed to correct assignment
         // TODO code application logic here
         
         // TO DO
-        // rename studentname to your name
+        // rename studentname to your name //done
         // import your own demonstration project from GitHub to this package
         
         // make a demo using the BAssignmentJFrame.java
